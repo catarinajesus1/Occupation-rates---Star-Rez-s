@@ -1,2 +1,5 @@
 # Occupation-rates Power BI
-The following report is directed to Star Rez´s Leadership and contains strategies aimed at maximizing occupancy rates and achieve continues growth in 2024 and the upcoming years
+
+This report is addressed to the leadership team at Star Rez, presenting strategies focused on optimizing occupancy rates and fostering sustained growth in 2024 and beyond.
+
+Included in this report is the PowerBI file, allowing for the visualization and interactive exploration of dashboards. Additionally, a business report accompanies it, featuring key findings, recommendations, and a dashboard screenshot.
